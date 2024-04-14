@@ -30,7 +30,7 @@
     "LATER_TODAY": "Później dzisiaj",
     "NEXT_WEEK": "Następny tydzień",
     "PLACEHOLDER": "Proszę wybrać datę",
-    "PRESS_ENTER_AGAIN": "Naciśnij enter aby zapusać",
+    "PRESS_ENTER_AGAIN": "Naciśnij enter aby zapisać",
     "TOMORROW": "Jutro"
   },
   "F": {
@@ -45,7 +45,7 @@
         },
         "SELECT_TYPE": "Wybierz typ",
         "TYPES": {
-          "FILE": "Plik (otwiera domyślną aplikacje)",
+          "FILE": "Plik (otwiera domyślną aplikację)",
           "IMG": "Zdjęcie (otwiera się jako thumbnail)",
           "LINK": "Link (otwiera się w nowej karcie)"
         }
@@ -71,7 +71,7 @@
         "SELECT_TYPE": "Wybierz typ",
         "TYPES": {
           "COMMAND": "Komenda (niestandardowe polecenie powłoki)",
-          "FILE": "Plik (otierany przy pomocy systemowej aplikacji)",
+          "FILE": "Plik (otwierany przy pomocy systemowej aplikacji)",
           "IMG": "Zdjęcie (miniaturka)",
           "LINK": "Link (otwiera w przeglądarce)"
         }
@@ -79,7 +79,7 @@
     },
     "CALDAV": {
       "DIALOG_INITIAL": {
-        "TITLE": "Ustaiwenia synchronizacji kalendarza (CalDav) dla projektu"
+        "TITLE": "Ustawienia synchronizacji kalendarza (CalDav) dla projektu"
       },
       "FORM": {
         "CALDAV_CATEGORY_FILTER": "Kategoria do filtrowania zadań CalDav dla (zostaw puste dla żadnego)",
@@ -87,7 +87,7 @@
         "CALDAV_RESOURCE": "Nazwa zasobu CalDav do synchronizacji (kalendarz)",
         "CALDAV_URL": "CalDav URL (podstawowy URL)",
         "CALDAV_USER": "Twój użytkownik CalDav",
-        "IS_AUTO_IMPORT_ISSUES": "Automatycznie dodaj niezrobione zadania CalDav do backlogu",
+        "IS_AUTO_IMPORT_ISSUES": "Automatycznie dodaj niewykonane zadania CalDav do backlogu",
         "IS_AUTO_POLL": "Automatycznie odpytuj importowane zadania CalDav pod kątem zmian",
         "IS_SEARCH_ISSUES_FROM_CALDAV": "Pokaż niedokończone zadania CalDav jako sugestie podczas dodawania nowych zadań",
         "IS_TRANSITION_ISSUES_ENABLED": "Automatycznie wypełniaj zadania CalDav po zakończeniu zadania"
